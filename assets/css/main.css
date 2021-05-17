@@ -2439,12 +2439,12 @@
 			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
+			position: relative;
+			overflow: hidden;
+			padding-top: 56.25%;
 		}
 
 			.features article .image img {
-				position: relative;
-				overflow: hidden;
-				padding-top: 56.25%;
 				display: block;
 				width: 100%;
 			}
