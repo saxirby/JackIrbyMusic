@@ -2414,7 +2414,7 @@
 /* Features */
 
 .responsive-iframe {
-	position: absolute;
+	position: relative;
 	top: 0;
 	left: 0;
 	bottom: 0;
@@ -2439,9 +2439,6 @@
 			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
-			position: relative;
-			overflow: hidden;
-			padding-top: 56.25%;
 		}
 
 			.features article .image img {
