@@ -2431,7 +2431,7 @@
 
 		.features article:first-child {
 			border-top: 0;
-			padding-top: 56.25%;
+			padding-top: 0;
 		}
 
 		.features article .image {
