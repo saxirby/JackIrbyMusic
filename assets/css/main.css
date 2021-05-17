@@ -2424,16 +2424,16 @@
 }
 
 	.features article {
-		position: relative;
-		overflow: hidden;
 		border-top: solid 3px #f4f4f4;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
 
 		.features article:first-child {
+			position: relative;
+			overflow: hidden;
 			border-top: 0;
-			padding-top: 0;
+			padding-top: 56.25%;
 		}
 
 		.features article .image {
